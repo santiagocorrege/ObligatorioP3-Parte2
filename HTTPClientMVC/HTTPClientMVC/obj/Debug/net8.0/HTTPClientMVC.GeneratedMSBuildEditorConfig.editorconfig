@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HTTPClientMVC
+build_property.RootNamespace = HTTPClientMVC
+build_property.ProjectDir = D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\HTTPClientMVC\HTTPClientMVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\HTTPClientMVC\HTTPClientMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/DropBox/Dropbox/ORT Tercer Semestre/0 - OBLIGATORIOS/Programacion 3 OB 2/HTTPClientMVC/HTTPClientMVC/Views/Login/Autorizar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQXV0b3JpemFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DropBox/Dropbox/ORT Tercer Semestre/0 - OBLIGATORIOS/Programacion 3 OB 2/HTTPClientMVC/HTTPClientMVC/Views/MovimientoStock/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b1N0b2NrXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DropBox/Dropbox/ORT Tercer Semestre/0 - OBLIGATORIOS/Programacion 3 OB 2/HTTPClientMVC/HTTPClientMVC/Views/MovimientoStock/GetArticulosFiltradosPorMovimientosRangoFechas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b1N0b2NrXEdldEFydGljdWxvc0ZpbHRyYWRvc1Bvck1vdmltaWVudG9zUmFuZ29GZWNoYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DropBox/Dropbox/ORT Tercer Semestre/0 - OBLIGATORIOS/Programacion 3 OB 2/HTTPClientMVC/HTTPClientMVC/Views/MovimientoStock/GetFiltradosPorArticuloYTipo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b1N0b2NrXEdldEZpbHRyYWRvc1BvckFydGljdWxvWVRpcG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DropBox/Dropbox/ORT Tercer Semestre/0 - OBLIGATORIOS/Programacion 3 OB 2/HTTPClientMVC/HTTPClientMVC/Views/MovimientoStock/GetMovimientoSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b1N0b2NrXEdldE1vdmltaWVudG9TdW1tYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DropBox/Dropbox/ORT Tercer Semestre/0 - OBLIGATORIOS/Programacion 3 OB 2/HTTPClientMVC/HTTPClientMVC/Views/MovimientoStock/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b1N0b2NrXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DropBox/Dropbox/ORT Tercer Semestre/0 - OBLIGATORIOS/Programacion 3 OB 2/HTTPClientMVC/HTTPClientMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DropBox/Dropbox/ORT Tercer Semestre/0 - OBLIGATORIOS/Programacion 3 OB 2/HTTPClientMVC/HTTPClientMVC/Views/Shared/_Mensajes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW5zYWplcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DropBox/Dropbox/ORT Tercer Semestre/0 - OBLIGATORIOS/Programacion 3 OB 2/HTTPClientMVC/HTTPClientMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DropBox/Dropbox/ORT Tercer Semestre/0 - OBLIGATORIOS/Programacion 3 OB 2/HTTPClientMVC/HTTPClientMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DropBox/Dropbox/ORT Tercer Semestre/0 - OBLIGATORIOS/Programacion 3 OB 2/HTTPClientMVC/HTTPClientMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DropBox/Dropbox/ORT Tercer Semestre/0 - OBLIGATORIOS/Programacion 3 OB 2/HTTPClientMVC/HTTPClientMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-z48jzesxun

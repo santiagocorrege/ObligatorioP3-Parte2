@@ -1,0 +1,24 @@
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\SistemaAutenticacion\bin\Debug\net8.0\SistemaAutenticacion.deps.json
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\SistemaAutenticacion\bin\Debug\net8.0\SistemaAutenticacion.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\SistemaAutenticacion\bin\Debug\net8.0\SistemaAutenticacion.pdb
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\SistemaAutenticacion\obj\Debug\net8.0\SistemaAutenticacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\SistemaAutenticacion\obj\Debug\net8.0\SistemaAutenticacion.AssemblyInfoInputs.cache
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\SistemaAutenticacion\obj\Debug\net8.0\SistemaAutenticacion.AssemblyInfo.cs
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\SistemaAutenticacion\obj\Debug\net8.0\SistemaAutenticacion.csproj.CoreCompileInputs.cache
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\SistemaAutenticacion\obj\Debug\net8.0\SistemaAutenticacion.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\SistemaAutenticacion\obj\Debug\net8.0\refint\SistemaAutenticacion.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\SistemaAutenticacion\obj\Debug\net8.0\SistemaAutenticacion.pdb
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\SistemaAutenticacion\obj\Debug\net8.0\ref\SistemaAutenticacion.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3\Obligatorio\SistemaAutenticacion\obj\Debug\net8.0\SistemaAutenticacion.csproj.AssemblyReference.cache
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\SistemaAutenticacion\bin\Debug\net8.0\SistemaAutenticacion.deps.json
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\SistemaAutenticacion\bin\Debug\net8.0\SistemaAutenticacion.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\SistemaAutenticacion\bin\Debug\net8.0\SistemaAutenticacion.pdb
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\SistemaAutenticacion\obj\Debug\net8.0\SistemaAutenticacion.csproj.AssemblyReference.cache
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\SistemaAutenticacion\obj\Debug\net8.0\SistemaAutenticacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\SistemaAutenticacion\obj\Debug\net8.0\SistemaAutenticacion.AssemblyInfoInputs.cache
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\SistemaAutenticacion\obj\Debug\net8.0\SistemaAutenticacion.AssemblyInfo.cs
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\SistemaAutenticacion\obj\Debug\net8.0\SistemaAutenticacion.csproj.CoreCompileInputs.cache
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\SistemaAutenticacion\obj\Debug\net8.0\SistemaAutenticacion.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\SistemaAutenticacion\obj\Debug\net8.0\refint\SistemaAutenticacion.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\SistemaAutenticacion\obj\Debug\net8.0\SistemaAutenticacion.pdb
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\SistemaAutenticacion\obj\Debug\net8.0\ref\SistemaAutenticacion.dll

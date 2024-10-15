@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\WebApiHttpClient\\Gestor.WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2832AD-4CAA-44B4-B12E-5C1E771B12CD}|..\\Gestor.LogicaAplicacion\\Gestor.LogicaAplicacion.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\webapihttpclient\\gestor.logicaaplicacion\\mappers\\mappermovimientostock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DFC4DB-D33D-4719-8EE1-2EDD262A3879}|..\\Gestor.LogicaNegocio\\Gestor.LogicaNegocio.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\webapihttpclient\\gestor.logicanegocio\\entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881DF9C2-C95C-4C9D-B2AF-E7A03AB53D56}|..\\SistemaAutenticacion\\SistemaAutenticacion.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\webapihttpclient\\sistemaautenticacion\\entidades\\encargado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881DF9C2-C95C-4C9D-B2AF-E7A03AB53D56}|..\\SistemaAutenticacion\\SistemaAutenticacion.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\webapihttpclient\\sistemaautenticacion\\entidades\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2832AD-4CAA-44B4-B12E-5C1E771B12CD}|..\\Gestor.LogicaAplicacion\\Gestor.LogicaAplicacion.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\webapihttpclient\\gestor.logicaaplicacion\\implementacioncu\\movimientostock\\addmovimientostock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC10EEA9-D303-47BA-968F-8346C9740E64}|Gestor.WebAPI.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\webapihttpclient\\gestor.webapi\\controllers\\movimientostockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC10EEA9-D303-47BA-968F-8346C9740E64}|Gestor.WebAPI.csproj|solutionrelative:controllers\\movimientostockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ryzen\\AppData\\Local\\Temp\\pybbvrv0..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E691BB1F-4F6E-4A45-80EB-D7D94E3B8209}|..\\Gestor.AccesoDatos\\Gestor.AccesoDatos.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\webapihttpclient\\gestor.accesodatos\\inserts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GestorObligatorio/True/SqlTable/dbo.Usuarios.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapperMovimientoStock.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\WebApiHttpClient\\Gestor.LogicaAplicacion\\Mappers\\MapperMovimientoStock.cs",
+              "RelativeDocumentMoniker": "..\\Gestor.LogicaAplicacion\\Mappers\\MapperMovimientoStock.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\WebApiHttpClient\\Gestor.LogicaAplicacion\\Mappers\\MapperMovimientoStock.cs",
+              "RelativeToolTip": "..\\Gestor.LogicaAplicacion\\Mappers\\MapperMovimientoStock.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:38:55.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\WebApiHttpClient\\Gestor.LogicaNegocio\\Entidades\\Articulo.cs",
+              "RelativeDocumentMoniker": "..\\Gestor.LogicaNegocio\\Entidades\\Articulo.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\WebApiHttpClient\\Gestor.LogicaNegocio\\Entidades\\Articulo.cs",
+              "RelativeToolTip": "..\\Gestor.LogicaNegocio\\Entidades\\Articulo.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAYwDsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:29:50.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Encargado.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\WebApiHttpClient\\SistemaAutenticacion\\Entidades\\Encargado.cs",
+              "RelativeDocumentMoniker": "..\\SistemaAutenticacion\\Entidades\\Encargado.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\WebApiHttpClient\\SistemaAutenticacion\\Entidades\\Encargado.cs",
+              "RelativeToolTip": "..\\SistemaAutenticacion\\Entidades\\Encargado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:29:43.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\WebApiHttpClient\\SistemaAutenticacion\\Entidades\\Administrador.cs",
+              "RelativeDocumentMoniker": "..\\SistemaAutenticacion\\Entidades\\Administrador.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\WebApiHttpClient\\SistemaAutenticacion\\Entidades\\Administrador.cs",
+              "RelativeToolTip": "..\\SistemaAutenticacion\\Entidades\\Administrador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:29:35.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddMovimientoStock.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\WebApiHttpClient\\Gestor.LogicaAplicacion\\ImplementacionCU\\MovimientoStock\\AddMovimientoStock.cs",
+              "RelativeDocumentMoniker": "..\\Gestor.LogicaAplicacion\\ImplementacionCU\\MovimientoStock\\AddMovimientoStock.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\WebApiHttpClient\\Gestor.LogicaAplicacion\\ImplementacionCU\\MovimientoStock\\AddMovimientoStock.cs",
+              "RelativeToolTip": "..\\Gestor.LogicaAplicacion\\ImplementacionCU\\MovimientoStock\\AddMovimientoStock.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:28:05.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\AppData\\Local\\Temp\\pybbvrv0..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-24T11:27:11.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovimientoStockController.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\WebApiHttpClient\\Gestor.WebAPI\\Controllers\\MovimientoStockController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovimientoStockController.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\WebApiHttpClient\\Gestor.WebAPI\\Controllers\\MovimientoStockController.cs",
+              "RelativeToolTip": "Controllers\\MovimientoStockController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:11:36.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Usuarios [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GestorObligatorio/True/SqlTable/dbo.Usuarios.sql",
+              "ToolTip": "dbo.Usuarios [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-20T14:36:39.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inserts.sql",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\WebApiHttpClient\\Gestor.AccesoDatos\\Inserts.sql",
+              "RelativeDocumentMoniker": "..\\Gestor.AccesoDatos\\Inserts.sql",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\WebApiHttpClient\\Gestor.AccesoDatos\\Inserts.sql",
+              "RelativeToolTip": "..\\Gestor.AccesoDatos\\Inserts.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-20T14:36:20.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

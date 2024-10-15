@@ -1,0 +1,85 @@
+﻿@model HTTPClientMVC.Models.MovimientoStock.MovimientoStockCreateModel
+
+@{
+    ViewData["Title"] = "GetFiltradosPorArticuloYTipo";
+}
+
+<h1>Filtrar Movimientos</h1>
+<partial name="_Mensajes" />
+<h4>Filtrar Movimientos por articulo y tipo</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="GetFiltradosPorArticuloYTipo">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="SelectedArticuloId" class="control-label"></label>
+                @Html.DropDownListFor(model => model.SelectedArticuloId, Model.ArticulosSelectList, "Seleccione un artículo", new { @class = "form-control" })
+                <span asp-validation-for="SelectedArticuloId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SelectedTipoMovimientoId" class="control-label"></label>
+                @Html.DropDownListFor(model => model.SelectedTipoMovimientoId, Model.TipoMovimientoSelectList, "Seleccione un tipo de movimiento", new { @class = "form-control" })
+                <span asp-validation-for="SelectedTipoMovimientoId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Filtrar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (Model != null && Model.ListaResultadosMovimientos != null && Model.ListaResultadosMovimientos.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.ListaResultadosMovimientos.First().Id)</th>
+                <th>@Html.DisplayNameFor(model => model.ListaResultadosMovimientos.First().Cantidad)</th>
+                <th>@Html.DisplayNameFor(model => model.ListaResultadosMovimientos.First().FechaMovimiento)</th>
+                <th>@Html.DisplayNameFor(model => model.ListaResultadosMovimientos.First().IdArticulo)</th>
+                <th>@Html.DisplayNameFor(model => model.ListaResultadosMovimientos.First().NombreArticulo)</th>
+                <th>@Html.DisplayNameFor(model => model.ListaResultadosMovimientos.First().PrecioActualArticulo)</th>
+                <th>@Html.DisplayNameFor(model => model.ListaResultadosMovimientos.First().IdTipoMovimiento)</th>
+                <th>@Html.DisplayNameFor(model => model.ListaResultadosMovimientos.First().NombreTipoMovimiento)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.ListaResultadosMovimientos)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Cantidad)</td>
+                    <td>@Html.DisplayFor(modelItem => item.FechaMovimiento)</td>
+                    <td>@Html.DisplayFor(modelItem => item.IdArticulo)</td>
+                    <td>@Html.DisplayFor(modelItem => item.NombreArticulo)</td>
+                    <td>@Html.DisplayFor(modelItem => item.PrecioActualArticulo)</td>
+                    <td>@Html.DisplayFor(modelItem => item.IdTipoMovimiento)</td>
+                    <td>@Html.DisplayFor(modelItem => item.NombreTipoMovimiento)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    var pag = (int)ViewBag.Pagina;
+    if (pag != -1)
+    {
+        pag++;
+        <div class="align-content-end"><a asp-action="GetArticulosFiltradosPorMovimientosRangoFechas" asp-controller="MovimientoStock" asp-route-pagina=@pag>Siguiente</a></div>
+    }
+}
+else
+{
+    <div class="alert alert-info">
+        <p>No hay docentes para mostrar</p>
+        <p>
+            <form asp-action="GetArticulosFiltradosPorMovimientosRangoFechas" asp-controller="MovimientoStock" method="post">
+                <input type="hidden" name="pagina" value="1" />
+                <button type="submit">Ir al primero</button>
+            </form>
+        </p>
+    </div>
+}
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

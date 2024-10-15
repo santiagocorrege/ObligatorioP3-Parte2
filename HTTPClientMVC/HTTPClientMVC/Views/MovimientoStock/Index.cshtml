@@ -1,0 +1,53 @@
+﻿@model IEnumerable<HTTPClientMVC.Models.MovimientoStock.MovimientoStockModel>
+
+@{
+    ViewData["Title"] = "Movimientos Stock";
+}
+
+<h1>Movimientos de Stock</h1>
+<partial name="_Mensajes" />
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreArticulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ArticuloId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreTipoMovimiento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoMovimientoId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cantidad)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreArticulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArticuloId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreTipoMovimiento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoMovimientoId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantidad)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

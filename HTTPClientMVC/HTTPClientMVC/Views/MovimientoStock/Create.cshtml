@@ -1,0 +1,43 @@
+﻿@model HTTPClientMVC.Models.MovimientoStock.MovimientoStockCreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+<partial name="_Mensajes" />
+<h4>MovimientoStockCreateModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="SelectedArticuloId" class="control-label"></label>
+                @Html.DropDownListFor(model => model.SelectedArticuloId, Model.ArticulosSelectList, "Seleccione un artículo", new { @class = "form-control" })
+                <span asp-validation-for="SelectedArticuloId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SelectedTipoMovimientoId" class="control-label"></label>
+                @Html.DropDownListFor(model => model.SelectedTipoMovimientoId, Model.TipoMovimientoSelectList, "Seleccione un tipo de movimiento", new { @class = "form-control" })
+                <span asp-validation-for="SelectedTipoMovimientoId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cantidad" class="control-label"></label>
+                <input asp-for="Cantidad" class="form-control" />
+                <span asp-validation-for="Cantidad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

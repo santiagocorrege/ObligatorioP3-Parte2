@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\httpclientmvc\\httpclientmvc\\controllers\\movimientostockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|solutionrelative:httpclientmvc\\controllers\\movimientostockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\httpclientmvc\\httpclientmvc\\views\\movimientostock\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|solutionrelative:httpclientmvc\\views\\movimientostock\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\httpclientmvc\\httpclientmvc\\views\\login\\autorizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|solutionrelative:httpclientmvc\\views\\login\\autorizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\httpclientmvc\\httpclientmvc\\models\\usuario\\logintokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|solutionrelative:httpclientmvc\\models\\usuario\\logintokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\httpclientmvc\\httpclientmvc\\models\\usuario\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|solutionrelative:httpclientmvc\\models\\usuario\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\httpclientmvc\\httpclientmvc\\models\\tipomovimiento\\tipomovimientomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|solutionrelative:httpclientmvc\\models\\tipomovimiento\\tipomovimientomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\httpclientmvc\\httpclientmvc\\models\\movimientostock\\movimientostocksummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|solutionrelative:httpclientmvc\\models\\movimientostock\\movimientostocksummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\httpclientmvc\\httpclientmvc\\models\\movimientostock\\movimientostockmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|solutionrelative:httpclientmvc\\models\\movimientostock\\movimientostockmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\httpclientmvc\\httpclientmvc\\models\\movimientostock\\movimientostockcreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|solutionrelative:httpclientmvc\\models\\movimientostock\\movimientostockcreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\httpclientmvc\\httpclientmvc\\models\\movimientostock\\movimientostockconarticulotipomovimientomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|solutionrelative:httpclientmvc\\models\\movimientostock\\movimientostockconarticulotipomovimientomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\httpclientmvc\\httpclientmvc\\models\\movimientostock\\movimientostockaddmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|solutionrelative:httpclientmvc\\models\\movimientostock\\movimientostockaddmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\httpclientmvc\\httpclientmvc\\models\\articulo\\articulomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|solutionrelative:httpclientmvc\\models\\articulo\\articulomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\httpclientmvc\\httpclientmvc\\models\\articulo\\articulofiltradomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|solutionrelative:httpclientmvc\\models\\articulo\\articulofiltradomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\httpclientmvc\\httpclientmvc\\models\\articulo\\articulocompletomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|solutionrelative:httpclientmvc\\models\\articulo\\articulocompletomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\httpclientmvc\\httpclientmvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|solutionrelative:httpclientmvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\httpclientmvc\\httpclientmvc\\views\\movimientostock\\getarticulosfiltradospormovimientosrangofechas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|solutionrelative:httpclientmvc\\views\\movimientostock\\getarticulosfiltradospormovimientosrangofechas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|d:\\dropbox\\dropbox\\ort tercer semestre\\0 - obligatorios\\programacion 3 ob 2\\httpclientmvc\\httpclientmvc\\views\\movimientostock\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94320D83-0905-42C3-94AF-CC690BC109F4}|HTTPClientMVC\\HTTPClientMVC.csproj|solutionrelative:httpclientmvc\\views\\movimientostock\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Views\\MovimientoStock\\Create.cshtml",
+              "RelativeDocumentMoniker": "HTTPClientMVC\\Views\\MovimientoStock\\Create.cshtml",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Views\\MovimientoStock\\Create.cshtml",
+              "RelativeToolTip": "HTTPClientMVC\\Views\\MovimientoStock\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T14:35:04.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Autorizar.cshtml",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Views\\Login\\Autorizar.cshtml",
+              "RelativeDocumentMoniker": "HTTPClientMVC\\Views\\Login\\Autorizar.cshtml",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Views\\Login\\Autorizar.cshtml",
+              "RelativeToolTip": "HTTPClientMVC\\Views\\Login\\Autorizar.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvyMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T14:34:58.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginTokenModel.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\Usuario\\LoginTokenModel.cs",
+              "RelativeDocumentMoniker": "HTTPClientMVC\\Models\\Usuario\\LoginTokenModel.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\Usuario\\LoginTokenModel.cs",
+              "RelativeToolTip": "HTTPClientMVC\\Models\\Usuario\\LoginTokenModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:34:45.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\Usuario\\LoginModel.cs",
+              "RelativeDocumentMoniker": "HTTPClientMVC\\Models\\Usuario\\LoginModel.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\Usuario\\LoginModel.cs",
+              "RelativeToolTip": "HTTPClientMVC\\Models\\Usuario\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:34:42.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoMovimientoModel.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\TipoMovimiento\\TipoMovimientoModel.cs",
+              "RelativeDocumentMoniker": "HTTPClientMVC\\Models\\TipoMovimiento\\TipoMovimientoModel.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\TipoMovimiento\\TipoMovimientoModel.cs",
+              "RelativeToolTip": "HTTPClientMVC\\Models\\TipoMovimiento\\TipoMovimientoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:34:35.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovimientoStockSummary.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockSummary.cs",
+              "RelativeDocumentMoniker": "HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockSummary.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockSummary.cs",
+              "RelativeToolTip": "HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockSummary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:34:28.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovimientoStockModel.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockModel.cs",
+              "RelativeDocumentMoniker": "HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockModel.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockModel.cs",
+              "RelativeToolTip": "HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:34:24.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovimientoStockCreateModel.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockCreateModel.cs",
+              "RelativeDocumentMoniker": "HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockCreateModel.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockCreateModel.cs",
+              "RelativeToolTip": "HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockCreateModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:34:21.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovimientoStockAddModel.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockAddModel.cs",
+              "RelativeDocumentMoniker": "HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockAddModel.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockAddModel.cs",
+              "RelativeToolTip": "HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockAddModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:34:14.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArticuloModel.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\Articulo\\ArticuloModel.cs",
+              "RelativeDocumentMoniker": "HTTPClientMVC\\Models\\Articulo\\ArticuloModel.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\Articulo\\ArticuloModel.cs",
+              "RelativeToolTip": "HTTPClientMVC\\Models\\Articulo\\ArticuloModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:34:09.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ArticuloFiltradoModel.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\Articulo\\ArticuloFiltradoModel.cs",
+              "RelativeDocumentMoniker": "HTTPClientMVC\\Models\\Articulo\\ArticuloFiltradoModel.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\Articulo\\ArticuloFiltradoModel.cs",
+              "RelativeToolTip": "HTTPClientMVC\\Models\\Articulo\\ArticuloFiltradoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:34:06.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ArticuloCompletoModel.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\Articulo\\ArticuloCompletoModel.cs",
+              "RelativeDocumentMoniker": "HTTPClientMVC\\Models\\Articulo\\ArticuloCompletoModel.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\Articulo\\ArticuloCompletoModel.cs",
+              "RelativeToolTip": "HTTPClientMVC\\Models\\Articulo\\ArticuloCompletoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:34:00.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "HTTPClientMVC\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "HTTPClientMVC\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAA7wF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:33:45.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovimientoStockConArticuloTipoMovimientoModel.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockConArticuloTipoMovimientoModel.cs",
+              "RelativeDocumentMoniker": "HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockConArticuloTipoMovimientoModel.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockConArticuloTipoMovimientoModel.cs",
+              "RelativeToolTip": "HTTPClientMVC\\Models\\MovimientoStock\\MovimientoStockConArticuloTipoMovimientoModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:03:41.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetArticulosFiltradosPorMovimientosRangoFechas.cshtml",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Views\\MovimientoStock\\GetArticulosFiltradosPorMovimientosRangoFechas.cshtml",
+              "RelativeDocumentMoniker": "HTTPClientMVC\\Views\\MovimientoStock\\GetArticulosFiltradosPorMovimientosRangoFechas.cshtml",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Views\\MovimientoStock\\GetArticulosFiltradosPorMovimientosRangoFechas.cshtml",
+              "RelativeToolTip": "HTTPClientMVC\\Views\\MovimientoStock\\GetArticulosFiltradosPorMovimientosRangoFechas.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T12:35:12.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Views\\MovimientoStock\\Index.cshtml",
+              "RelativeDocumentMoniker": "HTTPClientMVC\\Views\\MovimientoStock\\Index.cshtml",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Views\\MovimientoStock\\Index.cshtml",
+              "RelativeToolTip": "HTTPClientMVC\\Views\\MovimientoStock\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T11:58:43.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimientoStockController.cs",
+              "DocumentMoniker": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Controllers\\MovimientoStockController.cs",
+              "RelativeDocumentMoniker": "HTTPClientMVC\\Controllers\\MovimientoStockController.cs",
+              "ToolTip": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\HTTPClientMVC\\HTTPClientMVC\\Controllers\\MovimientoStockController.cs",
+              "RelativeToolTip": "HTTPClientMVC\\Controllers\\MovimientoStockController.cs",
+              "ViewState": "AQIAADABAAAAAAAAAAAwwEoBAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T19:36:45.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

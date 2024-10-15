@@ -1,0 +1,15 @@
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\Gestor.LogicaNegocio\bin\Debug\net8.0\Gestor.LogicaNegocio.deps.json
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\Gestor.LogicaNegocio\bin\Debug\net8.0\Gestor.LogicaNegocio.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\Gestor.LogicaNegocio\bin\Debug\net8.0\Gestor.LogicaNegocio.pdb
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\Gestor.LogicaNegocio\bin\Debug\net8.0\SistemaAutenticacion.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\Gestor.LogicaNegocio\bin\Debug\net8.0\SistemaAutenticacion.pdb
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\Gestor.LogicaNegocio\obj\Debug\net8.0\Gestor.LogicaNegocio.csproj.AssemblyReference.cache
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\Gestor.LogicaNegocio\obj\Debug\net8.0\Gestor.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\Gestor.LogicaNegocio\obj\Debug\net8.0\Gestor.LogicaNegocio.AssemblyInfoInputs.cache
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\Gestor.LogicaNegocio\obj\Debug\net8.0\Gestor.LogicaNegocio.AssemblyInfo.cs
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\Gestor.LogicaNegocio\obj\Debug\net8.0\Gestor.LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\Gestor.LogicaNegocio\obj\Debug\net8.0\Gestor.L.8F39BD45.Up2Date
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\Gestor.LogicaNegocio\obj\Debug\net8.0\Gestor.LogicaNegocio.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\Gestor.LogicaNegocio\obj\Debug\net8.0\refint\Gestor.LogicaNegocio.dll
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\Gestor.LogicaNegocio\obj\Debug\net8.0\Gestor.LogicaNegocio.pdb
+D:\DropBox\Dropbox\ORT Tercer Semestre\0 - OBLIGATORIOS\Programacion 3 OB 2\WebApiHttpClient\Gestor.LogicaNegocio\obj\Debug\net8.0\ref\Gestor.LogicaNegocio.dll

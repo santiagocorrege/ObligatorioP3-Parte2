@@ -1,0 +1,34 @@
+NOTAS:
+
+
+TEST:
+realizados sobre ese artículo. -> Controlar cuando no es encargado que no CRASHE
+Volver a la lista no funciona...
+
+
+
+
+……………………………………
+
+pedidosya
+
+"scorrege@gmail.com" Admin123.
+
+
+
+Codigo copiado MovimientoStockCreate:
+
+            <div class="form-group">
+                <label asp-for="SelectedArticuloId" class="control-label"></label>
+                @Html.DropDownListFor(model => model.SelectedArticuloId, Model.ArticulosSelectList, "Seleccione un artículo", new { @class = "form-control" })
+                <span asp-validation-for="SelectedArticuloId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SelectedTipoMovimientoId" class="control-label"></label>
+                @Html.DropDownListFor(model => model.SelectedTipoMovimientoId, Model.TipoMovimientoSelectList, "Seleccione un tipo de movimiento", new { @class = "form-control" })
+                <span asp-validation-for="SelectedTipoMovimientoId" class="text-danger"></span>
+            </div>
+
+
+
+

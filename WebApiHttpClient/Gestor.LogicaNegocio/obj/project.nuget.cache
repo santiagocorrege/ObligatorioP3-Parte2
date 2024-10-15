@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MGl9G3tqymsn9oqj6rKJHUmISxDA9wjVmmlAVv2Bna6PJ9wrO/i/rDyU8cghP3lbzPlyRokeLzra6wOLwHcR+Q==",
+  "success": true,
+  "projectFilePath": "D:\\DropBox\\Dropbox\\ORT Tercer Semestre\\0 - OBLIGATORIOS\\Programacion 3 OB 2\\WebApiHttpClient\\Gestor.LogicaNegocio\\Gestor.LogicaNegocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryzen\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.6\\microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
